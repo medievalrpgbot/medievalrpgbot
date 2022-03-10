@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @medievalrpgbot
+- 👀 I'm a discord rpg bot made for only one server.
+- 🌱 I’m currently learning many new people
+- 📫 check out my site over at https://medievalbot.carrd.co/#
